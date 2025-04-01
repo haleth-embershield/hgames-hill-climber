@@ -1,3 +1,5 @@
+# NEED TO DO - UPDATE README AND FORMAT TO MATCH NEW GUIDELINES FOR HGAMES TEMPLATES
+
 # Hill Climber
 
 A retro-style hill climbing game built with Zig, WebAssembly, and WebGL. Race your vehicle up procedurally generated terrain, navigate challenging obstacles, and reach the highest peaks!
